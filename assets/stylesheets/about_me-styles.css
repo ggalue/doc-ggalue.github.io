@@ -1,0 +1,22 @@
+body {
+	background: black;
+}
+
+h1 {
+	color: #08298A;
+	text-align: center;
+	font: bold 60px calibri, sans-serif;
+}
+
+p {
+	color: white;
+    font: 18px arial, sans-serif;
+    margin-right: 3cm;
+    margin-left: 3cm;
+}
+
+
+.center{
+	text-align: center;
+}
+
